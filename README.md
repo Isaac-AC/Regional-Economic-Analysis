@@ -3,11 +3,11 @@
 
 ## Description
 
-Regional Economic Analysis is a project that aims to conduct a comprehensive analysis of the economic landscape across different entity federatives. By exploring key indicators such as the Gross Domestic Product (PIB), occupation trends, salary ranges, sectors, and education, we seek to gain insights into the regional economic dynamics and their impact on socio-economic development.
+This project aims to conduct a comprehensive analysis of the economic landscape across different entity federatives. By exploring key indicators such as the Gross Domestic Product (PIB), occupation trends, salary ranges, sectors, and education, we seek to gain insights into the regional economic dynamics and their impact on socio-economic development.
 
 The objective of this project is to uncover patterns, disparities, and opportunities within each entity federative through data analysis and visualization. By providing a deeper understanding of regional economies, this project aims to facilitate evidence-based decision-making and contribute to informed policy development.
 
-# Key Features
+# Keys
 
 - Analyze the Gross Domestic Product (PIB) of each entity federative.
 - Investigate occupation trends and identify the most prominent sectors.
